@@ -2,7 +2,7 @@
   "name": "mern-portal-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KhairulAmriMABES.github.io/MRO-Structural-Defect-Portal",
+  "homepage": "https://KhairulAmriMABES.github.io/MRO-Structural-Defect-Portal/",
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.6",
     "@radix-ui/react-scroll-area": "^1.2.3",

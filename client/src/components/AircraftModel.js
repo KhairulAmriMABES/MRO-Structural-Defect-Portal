@@ -145,7 +145,7 @@ function AircraftModel() {
     const loader = new GLTFLoader();
     
     loader.load(
-      '/models/scene.gltf',
+      process.env.PUBLIC_URL + '/models/scene.gltf',
       (gltf) => {
         const model = gltf.scene;
         

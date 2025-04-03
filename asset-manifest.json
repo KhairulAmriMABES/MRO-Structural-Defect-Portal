@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MRO-Structural-Defect-Portal/static/css/main.21dfb7e2.css",
-    "main.js": "/MRO-Structural-Defect-Portal/static/js/main.0eccb9da.js",
+    "main.js": "/MRO-Structural-Defect-Portal/static/js/main.b075cd95.js",
     "index.html": "/MRO-Structural-Defect-Portal/index.html",
     "main.21dfb7e2.css.map": "/MRO-Structural-Defect-Portal/static/css/main.21dfb7e2.css.map",
-    "main.0eccb9da.js.map": "/MRO-Structural-Defect-Portal/static/js/main.0eccb9da.js.map"
+    "main.b075cd95.js.map": "/MRO-Structural-Defect-Portal/static/js/main.b075cd95.js.map"
   },
   "entrypoints": [
     "static/css/main.21dfb7e2.css",
-    "static/js/main.0eccb9da.js"
+    "static/js/main.b075cd95.js"
   ]
 }
